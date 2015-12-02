@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/lynnaloo/lumberjack",
   "dependencies": {
+    "hapi": "^11.1.2",
     "react": "^0.14.3",
     "trails": "0.0.0"
   }
