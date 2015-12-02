@@ -1,0 +1,30 @@
+{
+  "name": "mullet-lumberjack",
+  "version": "0.0.1",
+  "description": "Mullet takes a walk. React.js + Hapi + Trails.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lynnaloo/lumberjack.git"
+  },
+  "keywords": [
+    "react",
+    "hapi",
+    "mullet",
+    "trails",
+    "sails"
+  ],
+  "author": "Linda Nichols",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lynnaloo/lumberjack/issues"
+  },
+  "homepage": "https://github.com/lynnaloo/lumberjack",
+  "dependencies": {
+    "react": "^0.14.3",
+    "trails": "0.0.0"
+  }
+}
